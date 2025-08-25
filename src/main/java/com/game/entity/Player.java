@@ -1,6 +1,7 @@
 package com.game.entity;
 
 import jakarta.persistence.*;
+
 import java.util.Date;
 
 @Entity
